@@ -1,2 +1,4 @@
-# portifolio_Bulma
-Portifolio criado com utilização do CSS framework Bulma
+# Portifolio Bulma
+
+Modelo de portifolio criado com utilização do framewok css Bulma, como exercicio
+do curso de Programador Full Stack Javascript - Onebitcode
